@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -16,16 +16,16 @@
     },
     "selection_filter": {
       "dimensions": false,
-      "footprints": true,
+      "footprints": false,
       "graphics": false,
       "keepouts": false,
       "lockedItems": false,
       "otherItems": false,
-      "pads": true,
-      "text": true,
+      "pads": false,
+      "text": false,
       "tracks": true,
-      "vias": true,
-      "zones": true
+      "vias": false,
+      "zones": false
     },
     "visible_items": [
       0,
@@ -101,10 +101,22 @@
         "name": "elektor-eXpansion-board-V1-0.kicad_pcb",
         "open": false,
         "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -8,
+          "pos_y": -8,
+          "size_x": 1936,
+          "size_y": 1048
+        }
+      },
+      {
+        "name": "elektor-eXpansion-board-V1-0.kicad_sch",
+        "open": false,
+        "window": {
           "display": 1,
-          "maximized": false,
-          "pos_x": -1936,
-          "pos_y": 76,
+          "maximized": true,
+          "pos_x": -1928,
+          "pos_y": 84,
           "size_x": 1936,
           "size_y": 1048
         }
