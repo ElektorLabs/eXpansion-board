@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 37,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -23,8 +23,8 @@
       "otherItems": false,
       "pads": false,
       "text": false,
-      "tracks": true,
-      "vias": false,
+      "tracks": false,
+      "vias": true,
       "zones": false
     },
     "visible_items": [
@@ -67,60 +67,17 @@
     "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "elektor-eXpansion-board-V1-0.kicad_prl",
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "XIAO-Controller.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -1928,
-          "pos_y": 84,
-          "size_x": 1936,
-          "size_y": 1048
-        }
-      },
-      {
-        "name": "XIAO-Controller.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": false,
-          "pos_x": -1928,
-          "pos_y": 91,
-          "size_x": 1936,
-          "size_y": 1048
-        }
-      },
-      {
-        "name": "elektor-eXpansion-board-V1-0.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1048
-        }
-      },
-      {
-        "name": "elektor-eXpansion-board-V1-0.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -1928,
-          "pos_y": 84,
-          "size_x": 1936,
-          "size_y": 1048
-        }
-      }
-    ]
+    "files": []
   }
 }
