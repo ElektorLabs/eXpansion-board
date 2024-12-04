@@ -1,7 +1,22 @@
-# Elektor eXpansion Board v1.0 🚀
+# Elektor eXpansion Board v1.01 🚀
 
-Welcome to the GitHub repository for the Elektor eXpansion Board v1.0! This repository contains all the necessary files and documentation for the expansion board designed for Seeed Studio XIAO microcontroller boards.
+Welcome to the GitHub repository for the Elektor eXpansion Board v1.01! This repository contains all the necessary files and documentation for the expansion board designed for Seeed Studio XIAO microcontroller boards.
 
+
+## What's New in v1.01? ✨
+### 🛠️ Improved PCB Layout for Better Performance
+We've fine-tuned the overall PCB design to boost both performance and usability.
+
+### 🔗 Enhanced XIAO Board Footprint
+Now supports both SMD and THT soldering for greater flexibility in your projects.
+
+### ⚡ Optimized Track Routing
+Power, I2C, and UART tracks have been optimized to deliver better signal integrity.
+
+### 🎛️ Improved Button and LED Placement
+Enjoy easier accessibility with a more user-friendly layout.
+
+  
 ## Overview 🌟
 
 The Elektor eXpansion Board v1.0 is designed to enhance the functionality and connectivity of the Seeed Studio XIAO microcontroller lineup, including models like the SMD21, ESP32C3, C6, ESP32S3, and more. This board features multiple connectors and robust protection features, making it ideal for a wide range of applications, from prototyping and educational projects to IoT solutions and field applications.
